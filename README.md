@@ -1,0 +1,1 @@
+# absolutduck.github.io
