@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: About Absolute Duck
 permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-img.jpeg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Welcome to Duck Advise Absolute Duck, a quirky corner of the internet where business savvy meets feathered fun! I'm Joe, your guide through the waddle of numbers, finances, and all things business. You might be wondering, "Why ducks?" Well, let me explain.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Imagine a duck gliding effortlessly across a pond—calm and collected on the surface, but paddling like crazy underneath. That's the perfect metaphor for navigating the business world! We see the smooth sailing success stories, but it's the relentless paddling behind the scenes that really counts. And that’s where Absolute Duck comes in.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+With a background in finance and a penchant for puns, I've combined my love for numbers with my lifelong admiration for these industrious birds. Here, you'll find practical advice on managing money, building a business, and making informed decisions—all delivered with a splash of humor and a touch of whimsy.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Whether you're an entrepreneur, a finance enthusiast, or just someone looking for some light-hearted wisdom, you're in the right place. So, dive in, enjoy the quacks of knowledge, and let’s make some waves in the business world together! Quack on, my friends, quack on.
+
+And about the typo in the name AbsolutDuck, well, I've registered the domain absoluteduck.com. However, Github repository name has been taken... so I decided to copy the Unicorm Revolut to spare the E at the end. But it's me. 
+
+Feel free to connect with me on [LinkedIn].
+
+
+[LinkedIn]: https://www.linkedin.com/in/joseph-cai
